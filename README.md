@@ -185,14 +185,6 @@ npm run deploy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Author
-
-👥 Henschel Nketchogue M. <a name="authors"></a>
-
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
